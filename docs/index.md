@@ -1,8 +1,8 @@
-# AppScan Standard & Source 使用文档
+# AppScan 使用文档
 
 ## 概述
 
-AppScan服务的两个产品分别提供黑盒扫描和白盒扫描。
+AppScan服务分别提供黑盒扫描和白盒扫描。
 
 本文向您介绍如何使用计算巢上的`AppScan`服务。
 
@@ -10,6 +10,8 @@ AppScan服务的两个产品分别提供黑盒扫描和白盒扫描。
 
 ```
 请访问HCL官网了解如何使用：
+
+[360使用文档](https://help.hcl-software.com/appscan/360/zh_CN/2.0.0/home.html)
 
 [黑盒使用文档](https://help.hcl-software.com/appscan/Standard/10.9.0/zh_CN/home.html)
 
